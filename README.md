@@ -44,6 +44,9 @@
 
 <br clear="both">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" style="width: 100%; max-width: 800px;">
+</div>
+
 
 ###
