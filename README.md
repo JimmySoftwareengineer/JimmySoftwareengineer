@@ -4,10 +4,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <br clear="both">
 
 <h1 align="center">Passionate Software Engineer exploring Quantum Computing and Advanced DSA, SE II.</h1>
