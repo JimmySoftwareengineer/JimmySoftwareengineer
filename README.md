@@ -10,7 +10,7 @@
 
 <h2 aline="center" color="yellow">Who am I ? </h2> 
 
-<h2 aline="center" color="white">As a Software Engineer, I am passionate about exploring Quantum Computing algorithms and Software Engineering concepts, particularly in advanced topics like DSA across all programming languages. With a strong foundation in coding, I thrive on solving complex problems and continuously improving my skills. My interest in Quantum Computing fuels my curiosity for cutting-edge technology, while my deep understanding of software engineering principles allows me to design robust, efficient systems. I am dedicated to learning and innovating in both the theoretical and practical aspects of programming.</h2>
+<h3 aline="center" color="white">As a Software Engineer, I am passionate about exploring Quantum Computing algorithms and Software Engineering concepts, particularly in advanced topics like DSA across all programming languages. With a strong foundation in coding, I thrive on solving complex problems and continuously improving my skills. My interest in Quantum Computing fuels my curiosity for cutting-edge technology, while my deep understanding of software engineering principles allows me to design robust, efficient systems. I am dedicated to learning and innovating in both the theoretical and practical aspects of programming.</h3>
 ###
 
 <div align="left">
